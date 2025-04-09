@@ -1,10 +1,10 @@
-# 🚌 Bus Schedule Management System (C# WinForms)
+# Bus Schedule Management System (C# WinForms)
 
 A desktop-based **Bus Schedule Management System** built using **C# WinForms** and **Guna.UI2** for modern and visually appealing UI components. The system allows admins or staff to manage buses, routes, timings, and passenger bookings through an intuitive interface.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Add/Edit/Delete Buses**
 - **Manage Bus Routes and Timings**
@@ -16,7 +16,7 @@ A desktop-based **Bus Schedule Management System** built using **C# WinForms** a
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠Technologies Used
 
 - **C#**
 - **.NET Framework**
@@ -27,12 +27,12 @@ A desktop-based **Bus Schedule Management System** built using **C# WinForms** a
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/aabr2612/mini-bus-system
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 2. **Open in Visual Studio**
    - Launch Visual Studio.
@@ -56,7 +56,7 @@ A desktop-based **Bus Schedule Management System** built using **C# WinForms** a
 
 ---
 
-## 🧭 How to Use
+## How to Use
 
 1. Launch the application.
 2. Use the navigation menu to manage:
@@ -68,7 +68,7 @@ A desktop-based **Bus Schedule Management System** built using **C# WinForms** a
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project helped me learn and apply concepts like **event-driven programming**, **Windows Forms**, and **UI design using Guna2 components** in **C#**.  
 It’s a useful application for managing bus operations in a small to mid-scale transport system.
